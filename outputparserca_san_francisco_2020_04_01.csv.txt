@@ -1,0 +1,126 @@
+
+
+__________________________
+San Francisco State Statistics
+__________________________
+
+
+Violation Statistics 
+
+      : 100.0%
+
+
+Subject Race Statistics 
+
+     white : 41.137%
+     asian/pacific islander : 17.422%
+     black : 16.816%
+     hispanic : 12.818%
+     other : 11.807%
+
+
+Subject Sex Statistics 
+
+     male : 70.626%
+     female : 29.374%
+
+
+Age Statistics
+
+mean age= 37
+median age = 44
+Max Age = 100
+Min Age = 10
+______________
+Subject race vs stop outcome
+______________
+asian/pacific islander
+     citation : 78.298%
+     warning : 20.318%
+     arrest : 0.774%
+     NA : 0.609%
+
+black
+     citation : 54.952%
+     warning : 39.912%
+     NA : 2.81%
+     arrest : 2.326%
+
+hispanic
+     citation : 66.677%
+     warning : 27.093%
+     NA : 4.261%
+     arrest : 1.969%
+
+white
+     citation : 71.366%
+     warning : 26.541%
+     arrest : 1.066%
+     NA : 1.026%
+
+other
+     citation : 76.211%
+     warning : 21.365%
+     NA : 1.572%
+     arrest : 0.852%
+
+______________
+Subject race vs subject sex
+______________
+asian/pacific islander
+     male : 69.644%
+     female : 30.356%
+
+black
+     male : 70.381%
+     female : 29.619%
+
+hispanic
+     male : 76.974%
+     female : 23.026%
+
+white
+     male : 66.739%
+     female : 33.261%
+
+other
+     male : 79.08%
+     female : 20.92%
+
+______________
+Subject race vs subject age
+______________
+asian/pacific islander
+     30-49 : 38.764%
+     Under 30 : 33.144%
+     50-69 : 19.258%
+     NA or Invalid : 6.937%
+     70 and older : 1.898%
+
+black
+     Under 30 : 41.648%
+     30-49 : 36.487%
+     50-69 : 14.526%
+     NA or Invalid : 6.201%
+     70 and older : 1.139%
+
+hispanic
+     Under 30 : 41.968%
+     30-49 : 40.146%
+     50-69 : 10.565%
+     NA or Invalid : 6.647%
+     70 and older : 0.673%
+
+white
+     30-49 : 42.278%
+     Under 30 : 31.386%
+     50-69 : 18.498%
+     NA or Invalid : 5.799%
+     70 and older : 2.039%
+
+other
+     30-49 : 41.552%
+     Under 30 : 34.782%
+     50-69 : 14.163%
+     NA or Invalid : 8.62%
+     70 and older : 0.883%

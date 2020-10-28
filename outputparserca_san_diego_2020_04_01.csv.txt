@@ -1,0 +1,151 @@
+
+
+__________________________
+San Diego State Statistics
+__________________________
+
+
+Violation Statistics 
+
+      : 100.0%
+
+
+Subject Race Statistics 
+
+     white : 42.354%
+     hispanic : 30.568%
+     black : 11.149%
+     asian/pacific islander : 8.496%
+     other : 7.111%
+     NA : 0.322%
+
+
+Subject Sex Statistics 
+
+     male : 64.851%
+     female : 34.976%
+     NA : 0.173%
+
+
+Age Statistics
+
+mean age= 37
+median age = 55
+Max Age = 100
+Min Age = 10
+______________
+Subject race vs stop outcome
+______________
+white
+     citation : 59.215%
+     warning : 30.887%
+     NA : 8.806%
+     arrest : 1.092%
+
+asian/pacific islander
+     citation : 54.716%
+     warning : 36.529%
+     NA : 7.806%
+     arrest : 0.95%
+
+hispanic
+     citation : 57.479%
+     warning : 28.579%
+     NA : 12.478%
+     arrest : 1.464%
+
+black
+     citation : 48.058%
+     warning : 38.885%
+     NA : 11.05%
+     arrest : 2.007%
+
+other
+     citation : 63.474%
+     warning : 25.879%
+     NA : 10.059%
+     arrest : 0.587%
+
+NA
+     citation : 59.562%
+     NA : 22.447%
+     warning : 17.666%
+     arrest : 0.324%
+
+______________
+Subject race vs subject sex
+______________
+white
+     male : 61.687%
+     female : 38.266%
+     NA : 0.047%
+
+asian/pacific islander
+     male : 61.931%
+     female : 37.906%
+     NA : 0.163%
+
+hispanic
+     male : 67.456%
+     female : 32.52%
+     NA : 0.025%
+
+black
+     male : 70.308%
+     female : 29.65%
+     NA : 0.042%
+
+other
+     male : 68.529%
+     female : 31.342%
+     NA : 0.128%
+
+NA
+     male : 40.681%
+     NA : 36.467%
+     female : 22.853%
+
+______________
+Subject race vs subject age
+______________
+white
+     30-49 : 37.207%
+     Under 30 : 36.203%
+     50-69 : 20.046%
+     NA or Invalid : 3.774%
+     70 and older : 2.77%
+
+asian/pacific islander
+     30-49 : 40.085%
+     Under 30 : 38.954%
+     50-69 : 16.874%
+     NA or Invalid : 2.099%
+     70 and older : 1.988%
+
+hispanic
+     Under 30 : 44.118%
+     30-49 : 39.772%
+     50-69 : 13.083%
+     NA or Invalid : 2.04%
+     70 and older : 0.986%
+
+black
+     Under 30 : 43.904%
+     30-49 : 37.368%
+     50-69 : 15.127%
+     NA or Invalid : 2.618%
+     70 and older : 0.983%
+
+other
+     Under 30 : 42.158%
+     30-49 : 38.883%
+     50-69 : 13.294%
+     NA or Invalid : 4.494%
+     70 and older : 1.171%
+
+NA
+     NA or Invalid : 34.522%
+     30-49 : 32.091%
+     Under 30 : 23.015%
+     50-69 : 9.481%
+     70 and older : 0.891%

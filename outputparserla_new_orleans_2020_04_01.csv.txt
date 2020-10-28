@@ -1,0 +1,162 @@
+
+
+__________________________
+New Orleans State Statistics
+__________________________
+
+
+Violation Statistics 
+
+      : 100.0%
+
+
+Subject Race Statistics 
+
+     black : 68.312%
+     white : 25.328%
+     hispanic : 2.634%
+     NA : 2.291%
+     asian/pacific islander : 0.741%
+     unknown : 0.628%
+     other : 0.067%
+
+
+Subject Sex Statistics 
+
+     male : 69.188%
+     female : 28.522%
+     NA : 2.291%
+
+
+Age Statistics
+
+mean age= 34
+median age = 34
+Max Age = 110
+Min Age = 10
+______________
+Subject race vs stop outcome
+______________
+black
+     NA : 35.135%
+     warning : 23.912%
+     citation : 21.056%
+     arrest : 19.897%
+
+white
+     NA : 30.825%
+     citation : 26.62%
+     warning : 26.087%
+     arrest : 16.468%
+
+hispanic
+     citation : 34.038%
+     NA : 28.204%
+     warning : 22.237%
+     arrest : 15.521%
+
+unknown
+     citation : 42.284%
+     warning : 31.829%
+     NA : 17.984%
+     arrest : 7.903%
+
+NA
+     NA : 69.446%
+     citation : 16.24%
+     warning : 9.753%
+     arrest : 4.561%
+
+asian/pacific islander
+     citation : 37.596%
+     warning : 28.843%
+     NA : 26.074%
+     arrest : 7.487%
+
+other
+     citation : 41.52%
+     warning : 25.146%
+     NA : 22.807%
+     arrest : 10.526%
+
+______________
+Subject race vs subject sex
+______________
+black
+     male : 70.14%
+     female : 29.86%
+
+white
+     male : 70.942%
+     female : 29.058%
+
+hispanic
+     male : 83.789%
+     female : 16.211%
+
+unknown
+     male : 84.723%
+     female : 15.277%
+
+NA
+     NA : 100.0%
+
+asian/pacific islander
+     male : 69.786%
+     female : 30.214%
+
+other
+     male : 74.269%
+     female : 25.731%
+
+______________
+Subject race vs subject age
+______________
+black
+     Under 30 : 50.145%
+     30-49 : 35.664%
+     50-69 : 13.335%
+     70 and older : 0.632%
+     NA or Invalid : 0.224%
+
+white
+     Under 30 : 41.91%
+     30-49 : 41.062%
+     50-69 : 15.728%
+     70 and older : 1.141%
+     NA or Invalid : 0.159%
+
+hispanic
+     30-49 : 45.882%
+     Under 30 : 42.91%
+     50-69 : 10.511%
+     70 and older : 0.408%
+     NA or Invalid : 0.289%
+
+unknown
+     Under 30 : 43.062%
+     30-49 : 41.786%
+     50-69 : 14.032%
+     NA or Invalid : 0.622%
+     70 and older : 0.498%
+
+NA
+     NA or Invalid : 100.0%
+     70 and older : 0.0%
+     50-69 : 0.0%
+     30-49 : 0.0%
+     Under 30 : 0.0%
+
+asian/pacific islander
+     Under 30 : 43.897%
+     30-49 : 38.624%
+     50-69 : 16.267%
+     70 and older : 1.055%
+     NA or Invalid : 0.158%
+
+other
+     30-49 : 45.906%
+     Under 30 : 38.304%
+     50-69 : 15.497%
+     NA or Invalid : 0.292%
+     70 and older : 0.0%
